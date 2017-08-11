@@ -42,5 +42,9 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Preparing the React Components
   * Filtering Links with search query
 
+* Realtime Updates with GraphQL Subscriptions
+  * Subscriptions with Apollo
+  * Subscribing to new Links
+  * Subscribing to new Votes
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
