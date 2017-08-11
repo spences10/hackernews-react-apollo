@@ -17,5 +17,10 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Writing the GraphQL Query
   * Queries with Apollo Client
 
+* Mutations: Creating Links - for the UI
+  * Preparing the React components to create a link
+  * Writing the Mutation to add to the backend
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
