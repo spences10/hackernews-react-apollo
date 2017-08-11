@@ -25,4 +25,11 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Setting up routes
   * Implement navigation
 
+* Authentication :tada:
+  * Preparing the React components
+  * Enabling Email-and-Password Authentication & Updating the Schema :sweat_smile:
+  * Implementing the Login Mutations
+  * Updating the `createLink`-mutation
+  * Configuring Apollo with the Auth Token
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
