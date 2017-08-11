@@ -21,6 +21,8 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Preparing the React components to create a link
   * Writing the Mutation to add to the backend
 
-
+* Routing
+  * Setting up routes
+  * Implement navigation
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
