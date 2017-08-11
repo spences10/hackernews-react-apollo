@@ -38,4 +38,9 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Calling the Create Vote Mutation
   * Updating the Cache :ok_hand:
 
+* Filtering: Searching the List of Links
+  * Preparing the React Components
+  * Filtering Links with search query
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
