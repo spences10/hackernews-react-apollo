@@ -32,4 +32,10 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Updating the `createLink`-mutation
   * Configuring Apollo with the Auth Token
 
+* More Mutations and Updating the Store
+  * Preparing the React Components
+  * Updating the Schema again
+  * Calling the Create Vote Mutation
+  * Updating the Cache :ok_hand:
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
