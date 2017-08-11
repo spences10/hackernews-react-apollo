@@ -47,4 +47,11 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Subscribing to new Links
   * Subscribing to new Votes
 
+* Pagination
+  * Preparing the React Components
+  * Implementing Navigation
+  * Final Adjustments
+
+* Done!
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
