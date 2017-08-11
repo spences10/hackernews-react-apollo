@@ -12,6 +12,10 @@ Great foundation on how to use GraphQL the linked Tutorial covers:
   * Create React App bootstrapped project with styling
   * Configuring the `ApolloClient` to the CRA project
 
+* Queries: Loading Links to the UI
+  * Preparing the React components
+  * Writing the GraphQL Query
+  * Queries with Apollo Client
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
