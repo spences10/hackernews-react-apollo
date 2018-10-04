@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "16.5.2",
     "react-dom": "16.5.2",
-    "react-apollo": "2.2.3",
+    "react-apollo": "2.2.4",
     "react-router-dom": "4.3.1",
     "react-scripts": "2.0.3",
     "subscriptions-transport-ws": "0.9.15"
