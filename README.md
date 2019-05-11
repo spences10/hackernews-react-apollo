@@ -1,6 +1,6 @@
 # Graphcool Hackernews clone in React with Apollo
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/spences10/hackernews-react-apollo.svg)](https://greenkeeper.io/)
+[![Renovate enabled](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com/)
 
 ## [HowToGraphql.com](https://www.HowToGraphql.com)
 
