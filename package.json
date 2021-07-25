@@ -7,7 +7,7 @@
     "react-dom": "16.13.1",
     "react-apollo": "3.1.5",
     "react-router-dom": "5.1.2",
-    "react-scripts": "3.4.1",
+    "react-scripts": "3.4.4",
     "subscriptions-transport-ws": "0.9.16"
   },
   "scripts": {
